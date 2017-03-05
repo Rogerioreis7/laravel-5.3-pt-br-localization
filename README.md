@@ -3,6 +3,8 @@
 Essa tradução foi atualizada a partir do conteúdo disponibilizado por felipeporto neste link:
 https://github.com/felipeporto/laravel-5.2-pt-br-localization.git
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" width="100px" alt="Bandeira do Brasil" />
+
 ## Instalação
 
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
